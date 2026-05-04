@@ -1,4 +1,4 @@
-```md
+
 # 🧩 AI Code Assistant (Generative AI Project)
 
 An AI-powered coding assistant built using **Google Gemini API** and **Streamlit**.  
@@ -88,7 +88,7 @@ AI_Code_Assistant/
 ```
 
 ---
-```
+
 
 
 
