@@ -70,9 +70,13 @@ The system uses **prompt engineering + parameter tuning** to ensure structured a
 
 ai-code-assistant/
 │
+
 ├── app.py
+
 ├── requirements.txt
+
 ├── README.md
+
 └── .gitignore
 
 ````
