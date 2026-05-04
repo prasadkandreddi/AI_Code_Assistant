@@ -33,6 +33,12 @@ This tool helps developers generate, debug, and understand code with structured 
 
 ---
 
+## 🔗 GitHub Repository
+
+👉 https://github.com/prasadkandreddi/AI_Code_Assistant
+
+---
+
 ## 📌 How It Works
 
 1. User enters a coding query  
@@ -68,72 +74,17 @@ The system uses **prompt engineering + parameter tuning** to ensure structured a
 
 ```
 
-ai-code-assistant/
+AI_Code_Assistant/
 │
-
 ├── app.py
-
 ├── requirements.txt
-
 ├── README.md
-
-└── .gitignore
-
-````
-
----
-
-## ▶️ Run Locally
-
-```bash
-git clone https://github.com/prasadkandreddi/ai-code-assistant.git
-cd ai-code-assistant
-
-pip install -r requirements.txt
-streamlit run app.py
-````
-
----
-
-## ⚙️ Environment Setup
-
-Create a `.env` file:
+└── app_image
 
 ```
-GEMINI_API_KEY=AIzaSyCNT4s6EAlCA1RchaeSM-Ll8CWTsSVKoOQ
-```
-
-
-
-## ⭐ Future Improvements
-
-* Add code execution feature
-* Add multi-language support
-* Improve UI/UX
-* Add response streaming
 
 ---
-
-## 💼 Resume Highlights
-
-* Built a **Gen AI-based coding assistant** using Gemini API
-* Applied **prompt engineering** for structured outputs
-* Implemented **input filtering & response control**
-* Deployed using **Hugging Face Spaces**
-
----
-
-## 🤝 Contributing
-
-Feel free to fork and improve this project.
-
----
-
-## 📜 License
-
-This project is for educational and portfolio purposes.
-
 ```
-```
+
 
 
