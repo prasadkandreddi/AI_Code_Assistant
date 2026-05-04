@@ -96,14 +96,10 @@ streamlit run app.py
 Create a `.env` file:
 
 ```
-GEMINI_API_KEY=your_api_key_here
+GEMINI_API_KEY=AIzaSyCNT4s6EAlCA1RchaeSM-Ll8CWTsSVKoOQ
 ```
 
----
 
-##
-
----
 
 ## ⭐ Future Improvements
 
